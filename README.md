@@ -1,1 +1,1 @@
-# Customer-purchase-trends-and-insights-project-1-edu
+This project involves an in-depth monthly analysis of credit card customer behavior. It uses transactional data such as spending, repayment, age, category, and credit limits to derive meaningful insights. The main goal is to assist the bank in understanding its customers better and enhancing profitability by tracking monthly transactions, imposing interest on dues, and segment-wise spending trends.
